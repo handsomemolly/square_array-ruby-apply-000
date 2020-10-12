@@ -1,7 +1,6 @@
 def square_array(array)
-  numbers = [1, 2, 3]
-  square = numbers**
-  numbers.each do |number|
-    number == square
+  square_array = [1, 2, 3]
+  square_array.each do |number|
+    number == **
   end
 end
